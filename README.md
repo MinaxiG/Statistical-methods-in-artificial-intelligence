@@ -1,4 +1,4 @@
-# Statistical-methods-in-artificial-intelligence
+# Projects Description
 
 Project 1: Implementation of Linear Classifiers and PCA
 
